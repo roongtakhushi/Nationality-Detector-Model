@@ -63,9 +63,3 @@ It also provides additional information based on the nationality detected (Age e
   - Recall
   - Confusion Matrix
 - Models achieve **≥70% accuracy**
-
-## 📷 GUI Preview
-*(Add screenshot of your GUI here)*
-
-## 📄 License
-This project is for **educational purposes** only.
